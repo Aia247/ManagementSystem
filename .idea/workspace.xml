@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea8b29c3-8133-406d-8661-e655b76d14e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Rapy2nc8bdi1kEqrRmOFXhZ2NQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dept/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProject\department\Dept\templates" />
+      <recent name="D:\PycharmProject\department" />
+      <recent name="D:\PycharmProject\department\department" />
+      <recent name="D:\PycharmProject\department\Dept" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProject\department" />
+      <recent name="D:\PycharmProject\department\Dept\static\img" />
+      <recent name="D:\PycharmProject\department\Dept\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.code">
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="department" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="department" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dept/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dept/utils/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="department" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dept" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dept/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.code" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea8b29c3-8133-406d-8661-e655b76d14e6" name="Default Changelist" comment="" />
+      <created>1687498296626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687498296626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1688451385728">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1688451385728" />
+    <state width="1180" height="115" key="GridCell.Tab.0.bottom" timestamp="1688489783642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1180" height="115" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1688489783642" />
+    <state width="1180" height="115" key="GridCell.Tab.0.center" timestamp="1688489783641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1180" height="115" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1688489783641" />
+    <state width="1180" height="115" key="GridCell.Tab.0.left" timestamp="1688489783641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1180" height="115" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1688489783641" />
+    <state width="1180" height="115" key="GridCell.Tab.0.right" timestamp="1688489783642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1180" height="115" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1688489783642" />
+    <state x="488" y="200" key="SettingsEditor" timestamp="1688449217042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="488" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1688449217042" />
+    <state x="453" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1687507353096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="453" y="382" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1687507353096" />
+    <state x="1119" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1688014930897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1119" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1688014930897" />
+    <state x="1112" y="176" width="647" height="801" key="find.popup" timestamp="1688543567957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1112" y="176" width="647" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1688543567957" />
+    <state x="897" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1688542855434">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="897" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1688542855434" />
+  </component>
+</project>
